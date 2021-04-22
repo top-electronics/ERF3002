@@ -8,10 +8,7 @@ This page contains the following resources:
 - Drivers
 - README.md
 
-#### update *22-4-2021* ####
-
- * started this Github page
- 
+#### update *22-4-2021* #### 
  * Added Docs 
    - Quectel_BG95&BG77&BG600L_Series_AT_Commands_Manual_V2.0.pdf
    
