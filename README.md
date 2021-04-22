@@ -11,6 +11,7 @@ This page contains the following resources:
 #### update *22-4-2021* #### 
  * Added Docs 
    - Quectel_BG95&BG77&BG600L_Series_AT_Commands_Manual_V2.0.pdf
+   - Quectel_BG95&BG77&BG600L_Series_DFOTA_Application_Note_V1.1.pdf
    
  * Added Tools
    - QCOM_V1.6
