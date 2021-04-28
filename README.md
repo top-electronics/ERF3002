@@ -15,7 +15,7 @@ This page contains the following resources:
    
  * Added Tools
    - QCOM_V1.6
-   - QFlash_V5.2_EN
+   - QFlash_V5.2_EN download link 
    - QLog_Linux&Android_V1.3
    - QWinLog_V1.6.6
    
