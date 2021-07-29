@@ -24,15 +24,13 @@ This page contains the following resources:
    - Quectel_LTE&5G_USB_Driver_V2.1 
    - Quectel_LTE_Windows_USB_Driver_For_MBIM_V1.0
    
-#### COMING SOON ####
-
  * Docs
    - ERF3002_Datasheet
    - ERF3002_User_Guide
   
  * Examples
-- ERF3002_CAT-M_Connect
-- ERF3002_Temp_sensor
-- ERF3002_GNSS
+   - ERF3002_CAT-M_Connect
+   - ERF3002_Temp_sensor
+   - ERF3002_GNSS
 
  
