@@ -8,6 +8,18 @@ This page contains the following resources:
 - Drivers
 - README.md
 
+
+#### update *22-4-2021* #### 
+ * Docs
+   - ERF3002_Datasheet
+   - ERF3002_User_Guide
+   - Quectel LTE&5G Linux USB Driver user guide
+  
+ * Examples
+   - ERF3002_CAT-M_Connect
+   - ERF3002_Temp_sensor
+   - ERF3002_GNSS
+
 #### update *22-4-2021* #### 
  * Added Docs 
    - Quectel_BG95&BG77&BG600L_Series_AT_Commands_Manual_V2.0.pdf
@@ -24,13 +36,5 @@ This page contains the following resources:
    - Quectel_LTE&5G_USB_Driver_V2.1 
    - Quectel_LTE_Windows_USB_Driver_For_MBIM_V1.0
    
- * Docs
-   - ERF3002_Datasheet
-   - ERF3002_User_Guide
-  
- * Examples
-   - ERF3002_CAT-M_Connect
-   - ERF3002_Temp_sensor
-   - ERF3002_GNSS
 
  
