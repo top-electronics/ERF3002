@@ -31,4 +31,8 @@ This page contains the following resources:
    - ERF3002_User_Guide
   
  * Examples
+- ERF3002_CAT-M_Connect
+- ERF3002_Temp_sensor
+- ERF3002_GNSS
+
  
