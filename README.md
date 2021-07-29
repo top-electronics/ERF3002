@@ -9,7 +9,7 @@ This page contains the following resources:
 - README.md
 
 
-#### update *22-4-2021* #### 
+#### update *29-7-2021* #### 
  * Docs
    - ERF3002_Datasheet
    - ERF3002_User_Guide
